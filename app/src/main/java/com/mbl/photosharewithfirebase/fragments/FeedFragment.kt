@@ -64,11 +64,7 @@ class FeedFragment : Fragment(), PopupMenu.OnMenuItemClickListener {
         binding.feedRecyclerView.layoutManager = LinearLayoutManager(requireContext())
         binding.feedRecyclerView.adapter = adapter
     }
-
-
-
-    //.whereEqualTo .whereGreaterThan lere bak
-
+    
     private fun getPhotosFromFireStore(){
         val currentUsersEmail = Firebase.auth.currentUser?.email.toString()
 
