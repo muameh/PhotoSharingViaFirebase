@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "608503766884",
+    "project_id": "photoshare-c6772",
+    "storage_bucket": "photoshare-c6772.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608503766884:android:39cff46a615c3e8da06471",
+        "android_client_info": {
+          "package_name": "com.mbl.photosharewithfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCi9K4ER4KNBkvvCkfshX3XVSPs8hT04o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
